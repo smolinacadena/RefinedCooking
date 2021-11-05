@@ -1,0 +1,6 @@
+{
+  "modid": "refinedcooking",
+  "kitchenItemProviders": [
+    "refinedcooking:kitchen_station"
+  ]
+}
