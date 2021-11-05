@@ -1,5 +1,11 @@
 {
   "modid": "refinedcooking",
+  "kitchenConnectors": [
+    "refinedstorage:grid",
+    "refinedstorage:fluid_grid",
+    "refinedstorage:crafting_grid",
+    "refinedstorage:pattern_grid"
+  ],
   "kitchenItemProviders": [
     "refinedcooking:kitchen_station"
   ]
