@@ -1,4 +1,4 @@
-package dev.smolinacadena.config;
+package dev.smolinacadena.refinedcooking.config;
 
 import net.minecraftforge.common.ForgeConfigSpec;
 

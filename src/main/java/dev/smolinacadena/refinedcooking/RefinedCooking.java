@@ -2,7 +2,7 @@ package dev.smolinacadena.refinedcooking;
 
 import com.refinedmods.refinedstorage.api.IRSAPI;
 import com.refinedmods.refinedstorage.api.RSAPIInject;
-import dev.smolinacadena.config.ServerConfig;
+import dev.smolinacadena.refinedcooking.config.ServerConfig;
 import dev.smolinacadena.refinedcooking.item.group.MainItemGroup;
 import dev.smolinacadena.refinedcooking.setup.ClientSetup;
 import dev.smolinacadena.refinedcooking.setup.CommonSetup;
