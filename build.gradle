@@ -10,9 +10,6 @@ buildscript {
 
 repositories {
     maven {
-        url "https://repo.refinedmods.com"
-    }
-    maven {
         url "https://cursemaven.com"
         content {
             includeGroup "curse.maven"
@@ -83,7 +80,7 @@ sourceSets {
 
 dependencies {
     minecraft 'net.minecraftforge:forge:1.16.5-36.2.9'
-    implementation fg.deobf('com.refinedmods:refinedstorage:1.9.16+201')
+    implementation fg.deobf('curse.maven:refined-storage-243076:3807951')
     implementation fg.deobf('curse.maven:cooking-for-blockheads-231484:3445172')
 }
 
